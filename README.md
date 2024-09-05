@@ -7,7 +7,7 @@
 [![PyPI - Version](https://img.shields.io/pypi/v/pyrobbot)](https://pypi.org/project/pyrobbot/)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pyrobbot.streamlit.app)
 [<img src="https://raw.githubusercontent.com/paulovcmedeiros/pyRobBot/107f4576463d56b8d55bd913a56507940a37b675/pyrobbot/app/data/powered-by-openai-badge-outlined-on-dark.svg" width="100">](https://openai.com/blog/openai-api)
-
+ 
 
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-welcome-<COLOR>.svg)](https://github.com/paulovcmedeiros/pyRobBot/pulls)
